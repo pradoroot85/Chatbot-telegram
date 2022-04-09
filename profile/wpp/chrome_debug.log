@@ -1,0 +1,25 @@
+[29394:29394:0403/042315.161402:ERROR:angle_platform_impl.cc(44)] renderergl_utils.cpp:496 (GenerateTextureFormatCaps): glGetInternalformativ generated error 0x00000500 for format 0x0000906F. Skipping multisample checks.
+[29394:29394:0403/042315.162579:ERROR:angle_platform_impl.cc(44)] Display.cpp:966 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+[29394:29394:0403/042315.162703:ERROR:gl_surface_egl.cc(808)] EGL Driver message (Critical) eglInitialize: OpenGL ES 2.0 is not supportable.
+[29394:29394:0403/042315.162771:ERROR:gl_surface_egl.cc(1430)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[29394:29394:0403/042315.184502:ERROR:angle_platform_impl.cc(44)] Display.cpp:966 (initialize): ANGLE Display::initialize error 12289: Intel or NVIDIA OpenGL ES drivers are not supported.
+[29394:29394:0403/042315.184692:ERROR:gl_surface_egl.cc(808)] EGL Driver message (Critical) eglInitialize: Intel or NVIDIA OpenGL ES drivers are not supported.
+[29394:29394:0403/042315.184756:ERROR:gl_surface_egl.cc(1430)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[29394:29394:0403/042315.184820:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[29394:29394:0403/042315.193741:ERROR:viz_main_impl.cc(188)] Exiting GPU process due to errors during initialization
+[29354:29354:0403/042315.375797:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[29453:29453:0403/042315.653811:ERROR:angle_platform_impl.cc(44)] renderergl_utils.cpp:496 (GenerateTextureFormatCaps): glGetInternalformativ generated error 0x00000500 for format 0x0000906F. Skipping multisample checks.
+[29453:29453:0403/042315.654239:ERROR:angle_platform_impl.cc(44)] Display.cpp:966 (initialize): ANGLE Display::initialize error 12289: OpenGL ES 2.0 is not supportable.
+[29453:29453:0403/042315.657131:ERROR:gl_surface_egl.cc(808)] EGL Driver message (Critical) eglInitialize: OpenGL ES 2.0 is not supportable.
+[29453:29453:0403/042315.657241:ERROR:gl_surface_egl.cc(1430)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[29453:29453:0403/042315.669150:ERROR:angle_platform_impl.cc(44)] Display.cpp:966 (initialize): ANGLE Display::initialize error 12289: Intel or NVIDIA OpenGL ES drivers are not supported.
+[29453:29453:0403/042315.669349:ERROR:gl_surface_egl.cc(808)] EGL Driver message (Critical) eglInitialize: Intel or NVIDIA OpenGL ES drivers are not supported.
+[29453:29453:0403/042315.669408:ERROR:gl_surface_egl.cc(1430)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[29453:29453:0403/042315.669468:ERROR:gl_ozone_egl.cc(20)] GLSurfaceEGL::InitializeOneOff failed.
+[29453:29453:0403/042315.672975:ERROR:viz_main_impl.cc(188)] Exiting GPU process due to errors during initialization
+[29462:29462:0403/042315.758617:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+[29462:29462:0403/042315.777472:ERROR:gpu_memory_buffer_support_x11.cc(44)] dri3 extension not supported.
+[29432:8:0403/042315.796138:ERROR:command_buffer_proxy_impl.cc(125)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+[29395:29419:0403/042332.296835:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[29395:29419:0403/042332.297004:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[29354:29354:0403/042332.368407:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

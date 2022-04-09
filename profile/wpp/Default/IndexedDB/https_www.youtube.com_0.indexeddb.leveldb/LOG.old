@@ -1,0 +1,6 @@
+2022/04/03-04:05:53.042 64d9 Reusing MANIFEST /home/prado/Bots_python/Bot_Telegram/profile/wpp/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/03-04:05:53.043 64d9 Recovering log #3
+2022/04/03-04:05:53.286 64d9 Reusing old log /home/prado/Bots_python/Bot_Telegram/profile/wpp/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2022/04/03-04:05:57.968 64d9 Level-0 table #5: started
+2022/04/03-04:05:58.169 64d9 Level-0 table #5: 979327 bytes OK
+2022/04/03-04:05:58.211 64d9 Delete type=0 #3
